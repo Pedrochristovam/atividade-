@@ -1,0 +1,31 @@
+    Finished `test` profile [unoptimized + debuginfo] target(s) in 0.01s
+     Running unittests src\lib.rs (target\debug\deps\atividade_rust-9ce6250608dd6b76.exe)
+
+running 12 tests
+test ex01_verificar_primeiro::tests::retorna_primeiro_elemento ... ok
+test ex03_busca_binaria::tests::encontra_elemento_existente ... ok
+test ex09_produto_de_matrizes::tests::multiplica_matrizes_2x2 ... ok
+test ex03_busca_binaria::tests::retorna_none_quando_nao_encontra ... ok
+test ex02_somar_lista::tests::soma_elementos_da_lista ... ok
+test ex05_imprimir_pares_e_pares::tests::gera_todos_os_pares_ordenados ... ok
+test ex06_potencias_de_dois::tests::gera_potencias_ate_limite ... ok
+test ex07_fibonacci_recursivo::tests::calcula_fibonacci_de_dez ... ok
+test ex08_ordenacao_bolha::tests::ordena_lista_desordenada ... ok
+test ex01_verificar_primeiro::tests::lista_vazia ... ok
+test ex10_merge_sort::tests::ordena_lista_com_merge_sort ... ok
+test ex04_pares_com_soma::tests::encontra_pares_que_somam_alvo ... ok
+
+test result: ok. 12 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+     Running unittests src\main.rs (target\debug\deps\atividade_rust-8f39b9d2e5c65fbb.exe)
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
+   Doc-tests atividade_rust
+
+running 0 tests
+
+test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
